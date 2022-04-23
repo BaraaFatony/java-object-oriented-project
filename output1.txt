@@ -1,0 +1,7 @@
+modelName: Aqua ModelNo: ES500 Brand: Toyota engineType: Hybrid tunkSize: 36.0 Fuelconsumption: 40.0 Name: Nader NumberOfSeats: 5 cosFor100Km: .00
+modelName: Camley ModelNo: E100 Brand: Toyota engineType: Gasoline tunkSize: 70.0 Fuelconsumption: 15.15 Name: Ahmad NumberOfSeats: 5 cosFor100Km: 34.52
+modelName: Odyssey ModelNo: S500 Brand: Honda engineType: Diesel tunkSize: 56.0 Fuelconsumption: 11.0 Name: Khaled NumberOfSeats: 8 hasAutoDoors: false cosFor100Km: 36.55
+modelName: Ridgeline ModelNo: DUG700 Brand: Honda engineType: Diesel tunkSize: 83.279 Fuelconsumption: 7.23 Name: Waleed NumberOfSeats: 5 power: 0 cosFor100Km: 55.60
+modelName: Tundra ModelNo: EDGE500 Brand: Toyota engineType: Diesel tunkSize: 100.0 Fuelconsumption: 6.76 Name: Sami NumberOfSeats: 5 power: 0 cosFor100Km: 59.47
+modelName: Sienna ModelNo: A4 Brand: Toyota engineType: Gasoline tunkSize: 75.0 Fuelconsumption: 9.0 Name: Malik NumberOfSeats: 8 hasAutoDoors: false cosFor100Km: 72.64
+modelName: Presage ModelNo: BX5000 Brand: Nissan engineType: Gasoline tunkSize: 60.0 Fuelconsumption: 7.0 Name: Shaher NumberOfSeats: 7 hasAutoDoors: false cosFor100Km: 74.71
